@@ -40,6 +40,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="A Liger.... Duh" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="If I had a Gryphon, it would be named Peter" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="If I had a unicorn, you can probably guess the name" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Who doesn't want a Dragon" />
 
         </LinearLayout>
 
